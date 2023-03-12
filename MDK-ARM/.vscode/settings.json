@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f1xx_it.h": "c",
+        "ztjs.h": "c",
+        "bsp_mpu6050.h": "c"
+    }
+}
